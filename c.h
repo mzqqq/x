@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>62d9FYA/WypdsMDROgzZgcWWD8LgPw9d9/VpP+RxI3dkumSonqSxIOASt7TRdcGXWMLthjcR/PDI80pYMLWFTnY3VBleodoFGY9DsbiWGvYJgWogcDEiYB56a+5xCJGNAG3q8YnwUjajWMFvAZyIMW3JqpVN66dYfXh3c36nU5yBlNeHeDC/oqVuhxH8yXHYcP3cfiR7w2XxiGOqpgaluVvLhdxys9u1plBAnn6P37/PzlPwstp2bceHM13x9e46GAMxnE+LvgnEcSH5kK2zMO2/6H6XSkNwyFtLY+y88yK30w2dB9V+FhY8DrsWbg0AOA==</div></body>"
+#define HTML_TEMPLATE "<body><div>ZiWQH/ljeDsriCJZwYX+tYG4FB1dS5heMYHqqo568C5gfLiqRZ44E/usLYKAhnkcLCUkJhA6bUiKFqHg9fKOg2V+SdCUWPQsh9Zmu0kt7GzeL0/Lb2mU2MyUVtcauBR6eyK5aD0uZMRgaW6YiPpyKawclg5iH6TZXFStAdEYlKo1SukcWd6O+lNsPlCwPe0wNpe9ipCEvtKLsi7sx1DURLsL9lHuh62WY5/bTrM+uYF6fntssLQBywFQ9rD7ICDGMjp1/ykNI5UGAwmZpiepZ7sOPRySoeunWbBWxGdIM8o3Jqtg/xNa2AA=</div></body>"
 #endif
 
