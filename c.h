@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>1QA+RagmBrvWc4lqBaFaDfVkO1HMhBEHOpfkde4LpWNPpx6DcRU4EIm+e0isIiXqI7umnSp3mije5gzQAn4ILZ01+SBsxJlADS4wlDws4VRdzOFR/Ag+yGYgqAJuCZAZLBfQ/w+zHoGme790UMOO+jZPFa4e+SbW/nDbJJyGpBjox6ve/y8eE6NshtOrw2ErStv/5utaqe3BksO3AbfmC7LlWRZ4kSdNuyf6qtoLzRZNTx6acRO2vzwOVtP8Hh1W12bd58bl3H5gJeQFmQkBEz23eiK8vxzQps4f/9tOmbM0ADN3goEdc0xDYGl9sRUdV8Jo2NRYtHrKPkrdUAmQeSD0bBcMS2dOoMIwVj2mh4eo/81WTc0HcTI=</div></body>"
+#define HTML_TEMPLATE "<body><div>thE2QFv3+vWsEMJ16qs9u+f2jpjCj7+sKx3EnnCK7TGe3Mx6HrH6L7mErHbmCR95rGNrA596CHPS2KPyxV9fETvzghTW8txXHl6/czhWIT9ZWkzcCwNnzQBcxOwEkQ2TctO3hC+HWU6uVOGP6eO8cF5xyCnb05FxebJyC3Vc18uZEqrOfDjLungurTsSkTWkaaixH1IBtnktvjfPW4WSYsVDK7yXTKg=</div></body>"
 #endif
 
