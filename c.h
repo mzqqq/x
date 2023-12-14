@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>5MSKeLZb4u79aWNUwPrph/xlcZGtYqDAcU4MhTvK+m3uwWRVY4b4NusxYeCw9ZOPRUYHOva15PnO+NJXGD9gnhvQkxv72W/zIRptyKvxJgLYZGidIMO1KzycZdfVizHB0I6wwgeFubkByy1hhVYFwNYtOQvWSWXMcXJkiJxyjm/cIsc1tPbF36VnTMC2dK+7kckA8PPeciq1Brj81R7cVsstQqvLYJMENLxTq2GsiAI7Y7DhkvmhT8Qi5QdZpMN4xwUjFZa8wo2+exu+4wQSMtlZn2Sp+iATqk5bmhqX6tHKjQajduj+U4g=</div></body>"
+#define HTML_TEMPLATE "<body><div>EyOpmfVXhWOGaec4KvmnZFOxNGxBfyoO2ZNyGGLB0vTXepfsZ+jya8wcrH5iNPfNC2egBcHINEcYKzCvx+PvB6djWYkF4e5Fkd4xNF+Ar951RaKfGrYgW6XFeL9iDm97w5ySb3BZg75setXYuu4jTylZMB1XQcaeNZ+WL/4gKuqnXOBVflr5J/aKoDis1eZODDy1iB5zIOlpj47zhyxawjSQPkFCKr1WUKnhCAu1KJtAq/hYdajx/Qvdy/Ed8XBFBYoNSKWX1gw9RcGaUvFemRdDF4MNIT/XssnzZ626Y0PEPM/dvpodc0c=</div></body>"
 #endif
 
