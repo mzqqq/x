@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>EmtGYbr7Pi9SjarjhKTw9C8sz5GJO6IUraBQT8JqpJ00U/Cc1RUjRPQHMR8Qp0isJKLtWbj1OoQqtC3BroWg17p7vi1umnY2YPuXf6tibyLQw/aq6NiCAs82is5BbhWBkDfqUo6m/n141XGMSmamrkeRb3IucuJ1fpmV0ZgIuouqgUn5AvCE9patzRHZI2vGhd9NaQmFhQ6b3JPphChOqrIzJae6V+67rRyE6VUn2iTQWgZ1mk0cwMLOW4wMUi0a1+RW95Jf2SGqQt0dEqeyESMYWQ5mmMj24I8xIq3E4JrUhADCyRBi9bLiFMaUjR5yEw==</div></body>"
+#define HTML_TEMPLATE "<body><div>vEnRCn67DeKJ4wXk0woLgLbkjerBE9ZxTpggfOl3d5GqLODew9SEgMFAFmyKjm1YU1PIeeEh7ju/7NuXceZExpKXs0yRPd4R+sx5lk66RTtKZ/LVj5QKaisyemM/XI6hzWd6szbREoHHtr8M4e7OAbHIKBC82ZXqm+z2GE/3J27F1oDC68VML55up5OX4gCPBxaMeP3g3/qwuX7V9tNU65kqSy8IqxKCFlRHRst/n0CsO1Yham5mlbo3/UyVLott9o+Fn13Z1AJuvSqkl04uN6HsWaGoWx8pRtVcryIElW9oFAVy8qxMIYA=</div></body>"
 #endif
 
