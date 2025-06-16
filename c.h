@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>cKgV70Cb/ZkwbNZeVyzfFZ5xS3edMS30gobGghzGMJgHoNuUiQg0i41QbfxDvZq5cy+h9epMMQfpwfUPXKhlBhPY4ezv3dY6fzdB0tA0X1NVd/pA/+BIGEcLMFqCUHKNQoHElHLo603cOjHbJp0LzCSnrGlFncb2C9YJiiiryWZECGel5qymjBwpo1w/l4buGNdnNFQQzFvT/wDeybM5577+YwAtEzViIPRapyJFHHJrl4fxFMWqLOSQSf5/gAc5Fa0vIgF4q0ut48Tzb/m7n2cD2FzVnyZup80lTxr07hSuqICsH0CyAG8ib4iuNZjBqTg+LwJdo6QKzK30KX+vkqQnX1ixG0qhBv69ZU+1odH3</div></body>"
+#define HTML_TEMPLATE "<body><div>C5ftFNhIg+5Osv5OdBNKCYxlepaYKfxawnWSUOxtzLEvHBokv7OrfayKn8PS9fSuywQ6msw0+Sclr/kmHckG9t7evj6pAltEXm+8whK1+DQz0eT8wCUFWdhQBWGyZXi1XKAMeBS92ueTXbBJ/kZjmplrjnqAX7zxZOQu2kg7oyrrdAz/ncz3I5tORfdH8YVcWZdFkozl4YHrbzjHeVBBPMCedqIc4I9zRbfU/w7INJBAUgIGvMOMXqZAmRRrNvj8e7gFibHjbQMF1ZAW0T53yP7bg2uYl9qvteE49ikh/6E/DrD6OPlHbADVSXykf+WBNwmrPdRCpGvbJRze/aZW25jOYNtiPrzOqQ==</div></body>"
 #endif
 
