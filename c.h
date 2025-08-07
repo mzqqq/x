@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>yfSNr6N3bc1/H+/Fuz6fqN9sQhLHdWqFmPgISrQouyMIyTa7lXnOXoAAVPrj9akPhi4zent1oi3ipod9Y/kfcGYOHF/vryYikYD6EgwMvhENjQnyaaeIxzxrkADR2Z4sIKm+KaRdLaJUPvFCvNxKYkCN9LPH9DzV3Z/gV8OlyNP+z8ve+ox+7Mcu3Yb6cvd15JZxCztjGzk59uzpx/GdO0iDantmLBsDD0+77DGAN34lhGu/iJ/fd+HJ17mpVYJO1Eoh2VQuvbcCuJkDNmf8ouMjS63j1HejRiU6EV2+DuU5IWlehowP6hlDMyQJRxpPpbfeYx+yDroOitv5VBpv9Nv3eksjW1Qj0EPNGELaL3DqPQk9sbvuFlk=</div></body>"
+#define HTML_TEMPLATE "<body><div>DP+2jr+iuKO8M+tZ+i57vSpMde578HVHEa/lfKNXUKbAw5zLloufth4TKaYPyZMpxZc7DvsnalpfujtSt2+h36HiqPO0efFl3EEXwkolcCvO86CJEOih+6scQtk3Jp4h0YtGHQRONc8t64D5lLhwo1yguC7Xmg0MH5BpN6P87ptuyavKOtP5X3PAZ0Pq5a4qtDF6JqIelnMAu97iQnt15mAJ4QVnolwPA81YUxkUBrB4ddNz5uqmScGMjeW9jLDM3gr/Anesy/iiGtnFrd0ukZtX6xhFN63Fk3zQiqRXD+2K3kUPiPO5Tl8mO++RI8zdTwl9r49nhiBLBYSi3Ax4AF3H+RtqeokMKClzhbj+KSy8DLPTCPeQlVY=</div></body>"
 #endif
 
