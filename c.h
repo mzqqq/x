@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>pSMyHv3/JhLzXT8HYBR2H/9fHoiq2v+uoojjqFhyOh7X+CGaBwkYLmntf2HNfkt7qpstUkEpzs51S7NvmPUI/ix4WPoSQ16CVt/oH8M2lRnvxjZJmTBHUTR+NT4mg78sqdnSmgaDtb/vMdodIKRx3uUve1LzKoRRMy7uuKjDcVWat+OMs6f7dvBWsss2MYtnm4X2Pt91OCyDPy+/GR121X5FX/O0BvMr5/zvpFCk4CwbJ20A/yPNkCRyuFKjiihdDw/qdz1KvkZ2egsuArdIte5IKU5uvVRODs7W/AUnZYdOL5fhQwMkBivleTqGmhdj3iE9XnzaIvMdjoOwW9HgTTRgPNcMb7P9X4+caZdJVvG4kYGeynjqsyXP5Whou/qP0w==</div></body>"
+#define HTML_TEMPLATE "<body><div>OnkUDbJjDcwuYPN574izclSCpcmmCl+RQ3OUEJsgc+5ylrRbr0MoRG9IlO6rcl+5L29uUXHo+c8QODvkrUoFCmULDzbPs8UW8CxVfcOZ1IlUkgXh3B+WonS8WkExXe9qHpnIM5WTK/2Ik10hsF9y3QbdbEDp2JinSKqsJoEVdq/2IDlWXwIokEGIr1mNYpqG0/4zFkDr5e8nFtSl5//gg/F1wBkQduinoF9M/eTbJIEsHJ4a1eTskPAV1XVH66Vf+2NojM18heiBbsAaf3wLvr1ywDwTl24IgW1GhNKotVHAKGBbbrt8wv1UVzKoH4H+f86gjw7LhqH5Xhxo4BUPL9+IpqBxoqRr7b2AubHbJhiZAgBs+ZTkTdM=</div></body>"
 #endif
 
