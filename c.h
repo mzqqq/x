@@ -3,6 +3,6 @@
 #define __CONFIG_H__
 #include <stdio.h>
 
-#define HTML_TEMPLATE "<body><div>rYYuKFa8iMZ+r2BQiEzA4g3aYLHs5DDlZglAeXI4MIL5jENSRqjE/W8K4jUldyHqCIZrWa+zDiGoGYC/bURDRlinnj1Gssan9NrpkJTiwoVYphtfiZCZejiSvtALRfCD0hlv0fsX8YFGCp8a+nqSHdUDnWE2jIXnYqADo+LGhWOoBNpuF/wVNy+pvGkt5Eo+xpnylx4hzN0yd8AG6/WsGP9pjiy/T00FdymH+7xFIyhbSevhbSvDnWeDQr17c/uxBzqnmKwQqmtwbvciaBPn0kY4CZnTNUpFgcpI4EwbqclFEslphDRkHpVEv+2Y9ef6cchAJMFE9Pf6kExkznAhjkYE5D1ttgytaXG3kl2a+JE1h6Di7+SA7r6reyZ1lmAYk7hIfwoTtRBW</div></body>"
+#define HTML_TEMPLATE "<body><div>GCwSUTU1mqDuy2geFDpqLPh/AO40COI2SHz5a/m32XR3fgosFTiagGXODFzUuiJJn4fmDk1HkE6t4NhxbF6s8bZY/J03IwnhtMngX9yutN0HxugtAcETRz8jRdt2wWyamKZnZEvJW6SOOQYLeTpFb+ytXyFYCYkJqXEhTT0Qkzv9+zDKuPeiPImIWPuiFNkM+ONnbTcqoYB8L81/g+wgvPN+/Gh5mC0HlGgiyMTxE30/+EWdOw+4Mn7ih3/sdwl2o82/43XXiSEBcz2KypBg9hWn+y5hZYw7Bq8xSNjVUPzDUnoXWB0rGa9msMIhPFjKh5Jpsz403XU2ynGUPNFRVHYqKYnrgDVYEKJCKqfAyMS71FNCUV2uvWCf/3Gj3Cth278IXGzQdAzhmgitjK7NDk4=</div></body>"
 #endif
 
